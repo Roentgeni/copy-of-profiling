@@ -1,0 +1,5 @@
+key.o: key.cc /usr/include/stdc-predef.h ../include/key.h
+
+/usr/include/stdc-predef.h:
+
+../include/key.h:
